@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thiago Carvalho
-- 👀 I’m interested in Coding, Finance, and Surf
+- 👀 I’m interested in Coding, Finance, and Surfing. Aloha!
 - 🌱 I’m currently learning Python and Bash
 - 📫 How to reach me - trcarvalh@gmail.com
 
