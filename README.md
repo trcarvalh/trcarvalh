@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thiago Carvalho
+- 👋 Hi, I’m Thiago Carvalho. A Manual QA Engineer learning Automation w/ Python.
 - 👀 I’m interested in Coding, Finance, and Surfing. Aloha!
 - 🌱 I’m currently learning Python and Bash
 - 📫 How to reach me - trcarvalh@gmail.com
